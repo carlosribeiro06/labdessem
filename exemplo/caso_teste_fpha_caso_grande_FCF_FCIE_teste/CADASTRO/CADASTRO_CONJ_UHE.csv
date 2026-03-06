@@ -1,0 +1,6 @@
+codigo;nome;conjunto_maquinas;unidade_geradora;pmin;pmax;Ton;Toff;status_inicial;ton_toff_inicial;barra;submercado;turbinamento_maximo;produtibilidade
+6;FURNAS;1;1;15.2;152;5;5;0;200;18;1;188;0.9
+6;FURNAS;2;1;15.2;152;5;5;0;200;18;1;189;0.9
+275;TUCURUI;1;1;2.25;22.5;5;5;0;200;21;1;38;0.9
+275;TUCURUI;2;1;35;350;5;5;0;200;21;1;590;0.9
+275;TUCURUI;3;1;39;390;5;5;0;200;21;1;698;0.9

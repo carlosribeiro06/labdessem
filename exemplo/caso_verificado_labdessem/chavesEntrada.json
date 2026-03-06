@@ -1,0 +1,19 @@
+{
+    "Rest_Canal_Term":0,
+    "Rest_Canal_Hid":0,
+    "Rest_Bal_Hid":0,
+    "Rest_Hid":0,
+    "Rest_Limites_Fluxo":0,
+    "Rest_Ton_Toff_Term":0,
+    "Rest_Ton_Toff_Hid":0,
+    "Graficos":0,
+    "REDE": 1,
+    "LIMITES_INTERCAMBIO": 0,
+    "LIMITES_INTERCAMBIO_ENVELOPE_MCCORMICK": 0,
+    "DEFS": 1,
+    "CORTES_EXTERNOS": 1,
+    "TRATA_TON": 0,
+    "UCT": 1,
+    "UCH": 1,
+    "FPHA": 1
+}
